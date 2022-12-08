@@ -1,0 +1,4 @@
+SmartCenter Barcelona 1 1 10 20.5 1.50 1 1 45.0
+BNCCoworks Barcelona 2 2 11 35.0 2.00 1 1 35.7
+SenaCity Paris 2 2 9 55.0 3.50 1 1 55.7
+LoubreTech Paris 3 3 15 100.0 1.0 1 1 80.0

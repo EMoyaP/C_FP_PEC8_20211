@@ -1,0 +1,6 @@
+SenaCity Paris 2 2 9 55.0 3.50 1 0 55.7
+BNCCoworks Barcelona 2 2 11 35.0 2.00 1 1 35.73
+CentroSur Malaga 1 4 10 53.5 1.50 1 1 67.03
+LoubreTech Paris 3 3 15 100.0 1.0 1 1 80.0
+RetiroCenter Madrid 2 1 2 25.7 5.50 0 1 20.0
+EifeelCenter Paris 1 1 1 90.5 10.50 1 1 44.6
